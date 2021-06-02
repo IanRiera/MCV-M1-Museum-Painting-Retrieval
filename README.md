@@ -11,11 +11,11 @@ The aim of this master module is to implement a query by example CBIR system for
 
 The module consists of 5 different deliveries that build up to a complete pipeline.
 
-* [Week 1](https://github.com/oscarlorente/Museum-Painting-Retrieval/tree/main/week1)
-* [Week 2](https://github.com/oscarlorente/Museum-Painting-Retrieval/tree/main/week2)
-* [Week 3](https://github.com/oscarlorente/Museum-Painting-Retrieval/tree/main/week3)
-* [Week 4](https://github.com/oscarlorente/Museum-Painting-Retrieval/tree/main/week4)
-* [Week 5](https://github.com/oscarlorente/Museum-Painting-Retrieval/tree/main/week5)
+* [Week 1](https://github.com/IanRiera/MCV-M1-Museum-Painting-Retrieval/tree/main/week1)
+* [Week 2](https://github.com/IanRiera/MCV-M1-Museum-Painting-Retrieval/tree/main/week2)
+* [Week 3](https://github.com/IanRiera/MCV-M1-Museum-Painting-Retrieval/tree/main/week3)
+* [Week 4](https://github.com/IanRiera/MCV-M1-Museum-Painting-Retrieval/tree/main/week4)
+* [Week 5](https://github.com/IanRiera/MCV-M1-Museum-Painting-Retrieval/tree/main/week5)
 
 ## Contributors: Team 3
 - Òscar Lorente Corominas ([email](mailto:oscar.lorentec@e-campus.uab.cat))
